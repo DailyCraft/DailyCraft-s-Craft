@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bed_wool",
+
+  "pattern":
+  [
+    "1"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:purple_bed"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:purple_wool",
+    "count": 3
+  }
+}
