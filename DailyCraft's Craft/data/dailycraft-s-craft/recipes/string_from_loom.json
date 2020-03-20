@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "1"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:loom"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:string",
+    "count": 2
+  }
+}

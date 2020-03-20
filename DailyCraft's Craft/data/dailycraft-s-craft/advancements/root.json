@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_void"
+    },
+    "title": {
+        "text": ""
+    },
+    "description": {
+        "text": ""
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true,
+    "background": "minecraft:textures/block/crafting_table_top.png"
+  },
+  "criteria": {
+    "cc": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+            "item": "minecraft:bedrock"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cc"
+    ]
+  ]
+}
