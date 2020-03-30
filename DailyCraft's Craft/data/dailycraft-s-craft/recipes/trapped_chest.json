@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "111",
+    "121",
+    "111"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:chest"
+    },
+
+    "2":
+    {
+    	"item": "minecraft:tripwire_hook"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:trapped_chest"
+  }
+}

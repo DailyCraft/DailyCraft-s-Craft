@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:book"
+        "recipe": "dailycraft-s-craft:book_from_bookshelf"
       }
     }
   },

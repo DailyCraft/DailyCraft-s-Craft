@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:redstone_from_note_block"
+        "recipe": "dailycraft-s-craft:redstone/note_block"
       }
     }
   },

@@ -10,13 +10,12 @@
   {
     "1":
     {
-      "item": "minecraft:stick"
+      "item": "minecraft:cyan_stained_glass"
     }
   },
 
   "result":
   {
-    "item": "minecraft:bamboo",
-    "count": 2
+    "item": "minecraft:glass"
   }
 }

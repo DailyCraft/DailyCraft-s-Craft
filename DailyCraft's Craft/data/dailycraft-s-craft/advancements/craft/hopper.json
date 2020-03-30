@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:iron_ingot_from_hopper"
+        "recipe": "dailycraft-s-craft:iron_ingot/hopper"
       }
     }
   },

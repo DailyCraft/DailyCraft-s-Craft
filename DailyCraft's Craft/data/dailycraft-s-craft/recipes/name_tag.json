@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " 12",
+    "331",
+    "33 "
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:string"
+    },
+
+    "2":
+    {
+      "item": "minecraft:lead"
+    },
+
+    "3":
+    {
+      "item": "minecraft:paper"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:name_tag"
+  }
+}
