@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "1"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:magenta_stained_glass_pane"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:glass_pane"
+  }
+}

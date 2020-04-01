@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "1",
+    "1"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:mossy_cobblestone_slab"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:mossy_cobblestone"
+  }
+}

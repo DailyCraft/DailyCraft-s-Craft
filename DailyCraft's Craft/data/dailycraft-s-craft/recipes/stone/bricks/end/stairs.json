@@ -3,7 +3,6 @@
 
   "pattern":
   [
-    "1",
     "1"
   ],
 
@@ -11,12 +10,12 @@
   {
     "1":
     {
-      "item": "minecraft:sandstone_slab"
+      "item": "minecraft:end_stone_brick_stairs"
     }
   },
 
   "result":
   {
-    "item": "minecraft:sandstone"
+    "item": "minecraft:end_stone_bricks"
   }
 }
