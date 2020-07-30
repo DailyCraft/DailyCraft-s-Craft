@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:bed/red"
+        "recipe": "dailycraft-s-craft:wool/red/bed"
       }
     }
   },
