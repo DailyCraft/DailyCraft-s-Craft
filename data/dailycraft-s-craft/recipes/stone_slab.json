@@ -10,12 +10,12 @@
   {
     "1":
     {
-      "item": "minecraft:stone_brick_wall"
+      "item": "minecraft:grindstone"
     }
   },
 
   "result":
   {
-    "item": "minecraft:stone_bricks"
+    "item": "minecraft:stone_slab"
   }
 }

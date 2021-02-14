@@ -10,12 +10,13 @@
   {
     "1":
     {
-      "item": "minecraft:stone_brick_wall"
+      "item": "minecraft:beetroot_soup"
     }
   },
 
   "result":
   {
-    "item": "minecraft:stone_bricks"
+    "item": "minecraft:beetroot",
+    "count": 6
   }
 }

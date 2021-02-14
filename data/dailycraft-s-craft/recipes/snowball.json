@@ -10,12 +10,13 @@
   {
     "1":
     {
-      "item": "minecraft:stone_brick_wall"
+      "item": "minecraft:snow_block"
     }
   },
 
   "result":
   {
-    "item": "minecraft:stone_bricks"
+    "item": "minecraft:snowball",
+    "count": 4
   }
 }

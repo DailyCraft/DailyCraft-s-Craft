@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:ender_eye/end_crystal"
+        "recipe": "dailycraft-s-craft:bookshelf"
       }
     }
   },
@@ -29,6 +29,6 @@
     ]
   ],
   "rewards": {
-    "function": "dailycraft-s-craft:end_crystal"
+    "function": "dailycraft-s-craft:lectern"
   }
 }

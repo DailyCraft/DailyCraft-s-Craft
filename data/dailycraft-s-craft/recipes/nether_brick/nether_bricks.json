@@ -10,12 +10,13 @@
   {
     "1":
     {
-      "item": "minecraft:stone_brick_wall"
+      "item": "minecraft:nether_bricks"
     }
   },
 
   "result":
   {
-    "item": "minecraft:stone_bricks"
+    "item": "minecraft:nether_brick",
+    "count": 4
   }
 }

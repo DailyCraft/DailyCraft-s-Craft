@@ -10,12 +10,13 @@
   {
     "1":
     {
-      "item": "minecraft:stone_brick_wall"
+      "item": "minecraft:sea_lantern"
     }
   },
 
   "result":
   {
-    "item": "minecraft:stone_bricks"
+    "item": "minecraft:prismarine_crystals",
+    "count": 5
   }
 }
