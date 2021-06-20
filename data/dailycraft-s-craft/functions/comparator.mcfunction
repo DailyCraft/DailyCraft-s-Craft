@@ -1,5 +1,5 @@
 give @s minecraft:stone 3
 give @s minecraft:redstone_torch 3
 
-recipe take @s dailycraft-s-craft:quartz/comparator
+recipe take @s dailycraft-s-craft:uncraft/comparator
 advancement revoke @s only dailycraft-s-craft:craft/comparator

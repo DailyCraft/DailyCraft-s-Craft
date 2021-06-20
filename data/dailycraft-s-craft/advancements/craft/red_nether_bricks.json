@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:nether_brick/red_nether_bricks"
+        "recipe": "dailycraft-s-craft:uncraft/red_nether_bricks"
       }
     }
   },

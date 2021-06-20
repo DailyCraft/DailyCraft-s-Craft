@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:redstone/clock"
+        "recipe": "dailycraft-s-craft:uncraft/clock"
       }
     }
   },

@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:apple_from_golden_apple"
+        "recipe": "dailycraft-s-craft:uncraft/golden_apple"
       }
     }
   },

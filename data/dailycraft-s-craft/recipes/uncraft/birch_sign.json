@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "1"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:birch_sign"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:birch_planks",
+    "count": 2
+  }
+}

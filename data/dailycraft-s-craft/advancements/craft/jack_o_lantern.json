@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:carved_pumpkin"
+        "recipe": "dailycraft-s-craft:uncraft/jack_o_lantern"
       }
     }
   },

@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:netherite_ingot"
+        "recipe": "dailycraft-s-craft:uncraft/lodestone"
       }
     }
   },

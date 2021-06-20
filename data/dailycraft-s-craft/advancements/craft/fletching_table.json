@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:flint"
+        "recipe": "dailycraft-s-craft:uncraft/fletching_table"
       }
     }
   },

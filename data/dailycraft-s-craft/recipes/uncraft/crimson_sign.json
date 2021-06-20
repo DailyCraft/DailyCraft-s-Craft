@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "1"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:crimson_sign"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:crimson_planks",
+    "count": 2
+  }
+}

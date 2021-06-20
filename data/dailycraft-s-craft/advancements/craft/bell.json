@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:gold_ingot/bell"
+        "recipe": "dailycraft-s-craft:uncraft/bell"
       }
     }
   },

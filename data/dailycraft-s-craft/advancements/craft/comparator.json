@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:quartz/comparator"
+        "recipe": "dailycraft-s-craft:uncraft/comparator"
       }
     }
   },

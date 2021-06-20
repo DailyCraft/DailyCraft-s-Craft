@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:tnt"
+        "recipe": "dailycraft-s-craft:uncraft/tnt_minecart"
       }
     }
   },

@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:tripwire_hook"
+        "recipe": "dailycraft-s-craft:uncraft/trapped_chest"
       }
     }
   },

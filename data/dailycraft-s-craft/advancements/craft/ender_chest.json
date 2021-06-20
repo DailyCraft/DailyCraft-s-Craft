@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:ender_eye/ender_chest"
+        "recipe": "dailycraft-s-craft:uncraft/ender_chest"
       }
     }
   },

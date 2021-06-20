@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:ender_eye/end_crystal"
+        "recipe": "dailycraft-s-craft:uncraft/end_crystal"
       }
     }
   },

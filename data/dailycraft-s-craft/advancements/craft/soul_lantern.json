@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:soul_torch"
+        "recipe": "dailycraft-s-craft:uncraft/soul_lantern"
       }
     }
   },

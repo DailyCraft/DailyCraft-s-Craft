@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:slime_ball"
+        "recipe": "dailycraft-s-craft:uncraft/magma_cream"
       }
     }
   },

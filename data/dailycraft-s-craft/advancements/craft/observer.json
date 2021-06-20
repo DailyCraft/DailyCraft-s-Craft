@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:quartz/observer"
+        "recipe": "dailycraft-s-craft:uncraft/observer"
       }
     }
   },

@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:prismarine_crystals"
+        "recipe": "dailycraft-s-craft:uncraft/sea_lantern"
       }
     }
   },

@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:redstone/piston"
+        "recipe": "dailycraft-s-craft:uncraft/piston"
       }
     }
   },

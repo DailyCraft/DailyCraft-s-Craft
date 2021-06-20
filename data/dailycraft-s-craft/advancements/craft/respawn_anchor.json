@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:crying_obsidian"
+        "recipe": "dailycraft-s-craft:uncraft/respawn_anchor"
       }
     }
   },

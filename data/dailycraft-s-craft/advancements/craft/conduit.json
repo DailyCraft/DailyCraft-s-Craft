@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:heart_of_the_sea"
+        "recipe": "dailycraft-s-craft:uncraft/conduit"
       }
     }
   },

@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:beetroot"
+        "recipe": "dailycraft-s-craft:uncraft/beetroot_soup"
       }
     }
   },

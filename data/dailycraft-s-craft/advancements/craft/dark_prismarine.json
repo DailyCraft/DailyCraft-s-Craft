@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:prismarine/shard/dark"
+        "recipe": "dailycraft-s-craft:uncraft/dark_prismarine"
       }
     }
   },

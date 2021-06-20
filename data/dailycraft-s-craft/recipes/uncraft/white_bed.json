@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "1"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:white_bed"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:white_wool",
+    "count": 3
+  }
+}

@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:glass_bottle"
+        "recipe": "dailycraft-s-craft:uncraft/experience_bottle"
       }
     }
   },
