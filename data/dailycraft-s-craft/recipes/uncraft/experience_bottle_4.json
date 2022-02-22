@@ -8,11 +8,18 @@
     },
     {
       "item": "minecraft:experience_bottle"
+    },
+    {
+      "item": "minecraft:experience_bottle"
+    },
+    {
+      "item": "minecraft:experience_bottle"
     }
   ],
 
   "result":
   {
-    "item": "minecraft:glass_bottle"
+    "item": "minecraft:emerald",
+    "count": 4
   }
 }

@@ -3,19 +3,22 @@
 
   "pattern":
   [
-    "1"
+    "1 1",
+    "1 1",
+    "111"
   ],
 
   "key":
   {
     "1":
     {
-      "item": "minecraft:rabbit_stew"
+      "item": "minecraft:iron_block"
     }
   },
 
   "result":
   {
-    "item": "minecraft:bowl"
+    "item": "minecraft:cauldron",
+    "count": 9
   }
 }

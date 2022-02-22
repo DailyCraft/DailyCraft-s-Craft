@@ -10,12 +10,13 @@
   {
     "1":
     {
-      "item": "minecraft:rabbit_stew"
+      "item": "minecraft:spectral_arrow"
     }
   },
 
   "result":
   {
-    "item": "minecraft:bowl"
+    "item": "minecraft:glowstone_dust",
+    "count": 2
   }
 }

@@ -10,12 +10,12 @@
   {
     "1":
     {
-      "item": "minecraft:rabbit_stew"
+      "item": "minecraft:mojang_banner_pattern"
     }
   },
 
   "result":
   {
-    "item": "minecraft:bowl"
+    "item": "minecraft:enchanted_golden_apple"
   }
 }

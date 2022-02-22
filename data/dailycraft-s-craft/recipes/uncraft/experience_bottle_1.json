@@ -10,12 +10,12 @@
   {
     "1":
     {
-      "item": "minecraft:rabbit_stew"
+      "item": "minecraft:experience_bottle"
     }
   },
 
   "result":
   {
-    "item": "minecraft:bowl"
+    "item": "minecraft:emerald"
   }
 }

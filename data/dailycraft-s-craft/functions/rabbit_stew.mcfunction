@@ -1,5 +1,5 @@
 give @s minecraft:baked_potato
-give @s minecraft:bowl
+give @s minecraft:cooked_rabbit
 give @s minecraft:carrot
 give @s minecraft:red_mushroom
 

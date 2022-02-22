@@ -19,7 +19,7 @@
     "aa": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dailycraft-s-craft:uncraft/experience_bottle"
+        "recipe": "dailycraft-s-craft:uncraft/rooted_dirt"
       }
     }
   },
@@ -29,6 +29,6 @@
     ]
   ],
   "rewards": {
-    "function": "dailycraft-s-craft:experience_bottle"
+    "function": "dailycraft-s-craft:rooted_dirt"
   }
 }

@@ -10,12 +10,12 @@
   {
     "1":
     {
-      "item": "minecraft:rabbit_stew"
+      "item": "minecraft:skull_banner_pattern"
     }
   },
 
   "result":
   {
-    "item": "minecraft:bowl"
+    "item": "minecraft:wither_skeleton_skull"
   }
 }

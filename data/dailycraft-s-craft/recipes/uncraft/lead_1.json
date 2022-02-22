@@ -10,12 +10,13 @@
   {
     "1":
     {
-      "item": "minecraft:rabbit_stew"
+      "item": "minecraft:lead"
     }
   },
 
   "result":
   {
-    "item": "minecraft:bowl"
+    "item": "minecraft:string",
+    "count": 2
   }
 }

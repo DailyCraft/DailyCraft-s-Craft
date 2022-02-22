@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+    {
+      "item": "minecraft:end_rod"
+    },
+    {
+      "item": "minecraft:end_rod"
+    },
+    {
+      "item": "minecraft:end_rod"
+    },
+    {
+      "item": "minecraft:end_rod"
+    }
+  ],
+
+  "result":
+  {
+    "item": "minecraft:popped_chorus_fruit"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+    {
+      "item": "minecraft:lead"
+    },
+    {
+      "item": "minecraft:lead"
+    }
+  ],
+
+  "result":
+  {
+    "item": "minecraft:slime_ball"
+  }
+}
