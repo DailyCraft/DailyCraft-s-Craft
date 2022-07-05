@@ -1,7 +1,7 @@
 {
   "pack":
   {
-    "pack_format": 8,
+    "pack_format": 10,
     "description": "DailyCraft's Craft pack\nA craft and uncraft datapack"
   }
 }

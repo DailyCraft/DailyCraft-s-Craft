@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "1"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:mangrove_chest_boat"
+    }
+  },
+
+  "result":
+  {
+    "item": "minecraft:mangrove_boat"
+  }
+}

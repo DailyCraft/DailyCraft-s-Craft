@@ -1,0 +1,76 @@
+{
+  "parent": "dailycraft-s-craft:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_void"
+    },
+    "title": {
+        "text": ""
+    },
+    "description": {
+        "text": ""
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "oak": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "dailycraft-s-craft:uncraft/oak_chest_boat"
+      }
+    },
+    "spruce": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "dailycraft-s-craft:uncraft/spruce_chest_boat"
+      }
+    },
+    "birch": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "dailycraft-s-craft:uncraft/birch_chest_boat"
+      }
+    },
+    "jungle": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "dailycraft-s-craft:uncraft/jungle_chest_boat"
+      }
+    },
+    "acacia": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "dailycraft-s-craft:uncraft/acacia_chest_boat"
+      }
+    },
+    "dark_oak": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "dailycraft-s-craft:uncraft/dark_oak_chest_boat"
+      }
+    },
+    "mangrove": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "dailycraft-s-craft:uncraft/mangrove_chest_boat"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "oak",
+      "spruce",
+      "birch",
+      "jungle",
+      "acacia",
+      "dark_oak",
+      "mangrove"
+    ]
+  ],
+  "rewards": {
+    "function": "dailycraft-s-craft:chest_boat"
+  }
+}

@@ -1,1 +1,1 @@
-Go to [the CurseForge page of the plugin](https://www.curseforge.com/minecraft/customization/dailycraft-s-craft) for more informations
+Go to [the CurseForge page of the datapack](https://www.curseforge.com/minecraft/customization/dailycraft-s-craft) for more informations
